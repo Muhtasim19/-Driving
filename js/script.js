@@ -27,10 +27,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const body = document.body;
     const images = [
-        'images/cityscape1.jpg',
-        'images/nature1.jpg',
-        'images/cityscape2.jpg',
-        'images/nature2.jpg'
+        'images/flower.jpeg',
+        'images/lake.jpeg',
+        'images/new.jpeg',
+        'images/rose.jpeg',
+        'images/lowlight.jpeg',
+        'images/unkown.jpeg'
         // Add more images to this list
     ];
 
